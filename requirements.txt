@@ -1,0 +1,12 @@
+ requirements.txt
+nginx
+Copy
+Edit
+pandas
+scikit-learn
+joblib
+numpy
+🔍 How to use:
+Later, you or anyone can install all libraries by running:
+ 
+pip install -r requirements.txt
